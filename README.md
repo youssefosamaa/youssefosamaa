@@ -1,62 +1,19 @@
-<div align="center">
+# 💫 About Me:
+I’m currently working on<br>Building and improving AI models with real-world datasets.<br><br>I’m looking to collaborate on<br>Machine Learning and beginner-friendly Deep Learning projects.<br><br>I’m looking for help with<br>Advanced Deep Learning techniques and model optimization.<br><br>I’m currently learning<br>Deep Learning, model evaluation, and end-to-end ML pipelines.<br><br>Ask me about<br>Machine Learning , Deep Learning, and Python for AI.<br><br>Fun fact<br>If your model works on the first try, you probably did something wrong.
 
-<h2>Yousef</h2>
-<b>AI Developer | Machine Learning & Deep Learning</b>
 
-<br><br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-osama-a678a6388) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youssef.cont.ai) 
 
-<img src="https://komarev.com/ghpvc/?username=YOUSEF-AI&label=Profile%20Views&color=orange&style=flat" />
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYOUSEF-AI&title=Hits&edge_flat=false"/>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YoussefAIDev&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=YoussefAIDev&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefAIDev&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
-
----
-
-### 👨‍💻 About Me
-- AI-focused programmer  
-- Solid foundation in **Machine Learning**
-- Currently diving deeper into **Deep Learning**
-- Learning by building real projects, not just theory
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=YoussefAIDev&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-### 🧠 Currently Learning
-- Advanced Deep Learning
-- Model optimization & evaluation
-- Real-world ML pipelines
-
----
-
-### 🛠 Tech Stack
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-
----
-
-### 💬 Ask Me About
-- Machine Learning fundamentals  
-- Regression, Classification & evaluation metrics  
-- Python for data & AI  
-
----
-
-### ⚡ Fun Fact
-> A bad model teaches you more than a perfect one.
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUSEF-AI&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSEF-AI&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
-
-</div>
+[![](https://visitcount.itsvg.in/api?id=YoussefAIDev&icon=0&color=0)](https://visitcount.itsvg.in)
