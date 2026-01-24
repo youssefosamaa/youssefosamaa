@@ -7,85 +7,66 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ ʏᴏsᴇf!
-*AI & ML Enthusiast | Deep Learning Explorer*  
+# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello There, I'ᴍ Youssef!
+*AI / ML Engineer*  
 <br /> 
 
 <!--Start Intro-->               
 <p align="left">
-I am an AI programmer passionate about Machine Learning, Deep Learning, and Data Science. I enjoy building intelligent systems, experimenting with neural networks, and constantly pushing my skills further in AI technologies.
+I am an AI programmer passionate about Machine Learning, Deep Learning, and Data Science. I enjoy building intelligent systems, and constantly pushing my skills further in AI technologies.
 </p>
 
-- 🌱 Currently diving deeper into Deep Learning and AI applications.
-- 💻 Building projects that solve real-world problems using ML and Python.
-- ✍ I write about AI, ML, and tech experimentation.
-- 🔗 Check my projects and progress below.
-- 🎯 Lifelong learner, always exploring new ideas in AI and programming.
+- 🌱 Deepening my expertise in Deep Learning and Neural Network applications.  
+- 💻 Developing projects that tackle real-world problems using authentic datasets and AI technologies.  
+- 🔗 Explore my progress below.  
+- 🎯 Passionate lifelong learner, constantly exploring new ideas in AI and programming.
 
 <!--Profile Count Badge-->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile views" style="padding-right:20px;" />
+  <img src="https://komarev.com/ghpvc/?username=YoussefAIDev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile views" style="padding-right:20px;" />
 </p>
 
 ---
 
-<!--Languages and Tools Section-->       
-<h2 align="center">💻 Tᴇᴄʜ Sᴛᴀᴄᴋ & Cᴜʀʀᴇɴᴛ Fᴏᴄᴜs</h2> 
+<!--Technologies & Tools Badges-->       
+<h2 align="center">💻 Tᴇᴄʜ Sᴛᴀᴄᴋ & Sᴋɪʟʟs</h2> 
 
-<h3 align="left">Technologies I Use</h3>
-<ul align="left">
-  <li>Python | NumPy | Pandas | Matplotlib | Seaborn</li>
-  <li>Scikit-Learn | TensorFlow | Keras | PyTorch</li>
-  <li>Deep Learning | Neural Networks | Computer Vision</li>
-  <li>Git | GitHub | VS Code | Jupyter Notebooks</li>
-</ul>
-
-<h3 align="left">Currently Learning</h3>
-<ul align="left">
-  <li>Advanced Deep Learning techniques and architectures (Transformers, CNNs, RNNs)</li>
-  <li>Deploying AI models with Flask, FastAPI, and cloud platforms (AWS, Azure)</li>
-  <li>Reinforcement Learning and Generative AI</li>
-</ul>
-
-<h3 align="left">Projects & Experiments</h3>
-<ul align="left">
-  <li><a href="https://github.com/your-github-username/awesome-ml-project">ML Prediction System 🚀</a> – A machine learning model predicting real-world data trends.</li>
-  <li><a href="https://github.com/your-github-username/deep-learning-vision">Deep Learning Vision 🖼️</a> – Image recognition and classification experiments using CNNs.</li>
-  <li><a href="https://github.com/your-github-username/ai-chatbot">AI Chatbot 🤖</a> – A conversational AI powered by neural networks.</li>
-</ul>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 ---
 
-<!--Github stats Table--> 
-<h2 align="center">📊 GitHub Stats & Contributions 📊</h2>
+<!--GitHub Stats & Trophies--> 
+<h2 align="center">📊 GitHub Stats & Trophies 📊</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>GitHub Stats</strong></h3>
-      <p align="center">
-        <a href="https://github.com/your-github-username">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=your-github-username&count_private=true&show_icons=true&theme=dark&hide=prs,issues" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Top Repos</strong></h3>
-      <p align="center">
-        <a href="https://github.com/your-github-username">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api/pin/?username=your-github-username&repo=awesome-ml-project&theme=dark" alt="Top Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github-profile-trophy-ruddy.vercel.app/?username=YoussefAIDev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai" alt="GitHub Trophies" />
+</p>
 
-<br />
+<p align="center">
+  <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=YoussefAIDev&count_private=true&show_icons=true&theme=dark&hide=prs,issues" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefAIDev&theme=dark" alt="GitHub Streak Stats" />
+</p>
+
+---
 
 <!--Contribution Graph-->
 <h2 align="center">📈 Contribution Graph 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&bg_color=0d1117&color=ffffff&line=c56a90&point=ffeb95&area=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefAIDev&bg_color=0d1117&color=ffffff&line=c56a90&point=ffeb95&area=false" border-radius="15">
 </div>
 
 ---
@@ -100,13 +81,11 @@ I am an AI programmer passionate about Machine Learning, Deep Learning, and Data
 
 <!--Contact Section--> 
 <h2 align="center">🤝 Connect With Me 🤝 </h2>
-<div align="center">
-<a href="mailto:your.email@example.com"><img src="./gmail.png" width=50 height=50></a>
-<a href="https://twitter.com/yourusername"><img src="./twitter.png" width=50 height=50></a>
-<a href="https://www.linkedin.com/in/yourusername"><img src="./linkedin.png" width=50 height=50></a>
-<a href="https://github.com/your-github-username"><img src="./github.png" width=50 height=50></a>
-</div>
-<br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Email-youssef.cont.ai@gamil.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-YoussefOsama-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-YoussefAIDev-black?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 <!--Footer--> 
 <p align="center">
