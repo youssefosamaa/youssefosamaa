@@ -12,7 +12,7 @@
 
 ---
 
-### About Me
+<h2 align="center">About Me</h2>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
@@ -20,9 +20,9 @@
     I am Youssef Osama, an AI developer specializing in Machine Learning and Deep Learning.
     I am currently deepening my expertise in Generative AI and cloud computing with AWS and Azure, while keeping up with the latest AI research.
     I enjoy independent learning through reading research papers, taking accredited courses, participating in AI communities, and building practical projects.
-    I focus on applying AI to solve real-world problems using analytical and critical thinking.
+    I focus on applying AI and analyzing real-world Data to solve real-world problems.
     I design AI models that are robust, efficient, scalable, and precise for practical applications.
-    I actively contribute to open-source AI projects to collaborate with other developers and share knowledge.
+    I actively contribute to open-source AI projects to collaborate with other developers and to share knowledge.
     My approach combines continuous learning, experimentation, and hands-on implementation to deliver impactful results.<br><br>
     <ul>
       <li>Continuously exploring new AI methods, tools, and emerging technologies.</li>
@@ -42,7 +42,8 @@
 
 ---
 
-### Top Technical Skills
+<h2 align="center">Top Technical Skills</h2>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python"/>
   <img width="12"/>
@@ -145,5 +146,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer"/>
 </p>
