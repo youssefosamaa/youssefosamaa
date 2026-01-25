@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm  Mobamed Whdan</h1>
+<h1 align="center">Hi, I'm Youssef Osama</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+.NET+@+ITI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Engineer;" alt="Typing SVG" />
 </p>
 
 <br>
@@ -11,21 +11,10 @@
       <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
   </p>
 
-  <p align="center">
-    <a href="https://www.google.com.eg/search?q=mohamed20384"> <!-- Google Me -->
-      <img src="https://komarev.com/ghpvc/?username=mohamed20384&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
-  </p>
-
-  <p align = "center">
-    <a href="https://drive.google.com/drive/folders/1cMFhLCLeu1WX0o57vI_0qSetC0188pj1?usp=sharing">
-      <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
-    <a href="https://flowcv.com/resume/at8tsgkor6n5">
-      <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
-  </p>
 
   #### `📤 Connect & Competitive Programming`
   <div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-whdan" target="_blank">
+  <a href="https://www.linkedin.com/in/youssef-osama-a678a6388" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/whdan_ai" target="_blank">
