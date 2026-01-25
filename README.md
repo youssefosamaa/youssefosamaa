@@ -84,9 +84,12 @@
 #### 🏆 GitHub Trophies
 <div align="center">
 
-  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=mohamed20384&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <!-- Trophies -->
+  <a href="https://github.com/YoussefAIDev">
+    <img src="https://github-profile-trophy.vercel.app/?username=YoussefAIDev&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  </a>
 
-  <br><br>
+</div>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed20384&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp;
   <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125" />
