@@ -14,24 +14,25 @@
 
 ---
 
-### 👨‍💻 About Me 
-<table width="100%">
+### 👨‍💻 About Me
+
+<table width="100%" cellspacing="0" cellpadding="0">
 <tr>
-<td width="65%" align="left">
+  <!-- النص على الشمال -->
+  <td width="65%" valign="top" style="font-size:18px; line-height:1.7; padding-right:20px;">
+    I am Youssef Osama, an AI developer passionate about Machine Learning and Deep Learning.<br>
+    I build AI models and solutions that are practical and efficient.<br>
+    I constantly learn and experiment with new AI technologies.<br>
+    My goal is to deliver impactful projects and contribute to the AI community.
+  </td>
 
-I am Youssef Osama, an AI developer passionate about Machine Learning and Deep Learning.<br>
-I build AI models and solutions that are practical and efficient.<br>
-I constantly learn and experiment with new AI technologies.<br>
-My goal is to deliver impactful projects and contribute to the AI community.
-
-</td>
-<td width="35%" align="center">
-  <img src="https://media.giphy.com/media/26xBMu6k2U55fFGfK/giphy.gif" width="150" alt="AI Developer GIF"/>
-</td>
+  <!-- الصورة المتحركة على اليمين -->
+  <td width="35%" valign="top" align="right">
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmp3b3Frb2xnOTlzbjdpeGZ3ZWtvY3U3dGIydjZlOW1kNTEyNWxrYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="250" height="250" alt="AI Developer GIF"/>
+  </td>
 </tr>
 </table>
 
----
 
 ---
 
