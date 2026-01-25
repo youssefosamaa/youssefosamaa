@@ -6,7 +6,7 @@
 
 ---
 
-<h2 align="center">About Me</h2>
+<h2 align="left">About Me</h2>
 
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
@@ -25,7 +25,7 @@
       <li>Engaged in open-source collaboration and knowledge sharing with the AI community.</li>
     </ul>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=YoussefAIDev&label=Profile%20views&color=441350&style=for-the-badge&logo=star" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=YoussefAIDev&label=Profile%20views&color=87CEFB&style=for-the-badge&logo=star" alt="Profile Views"/>
   </td>
 
   <td width="40%" valign="middle" align="right">
@@ -36,9 +36,9 @@
 
 ---
 
-<h2 align="center">Top Technical Skills</h2>
+<h2 align="left">Top Technical Skills</h2>
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="NumPy"/>
@@ -140,5 +140,5 @@
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=75&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
