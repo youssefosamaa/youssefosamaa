@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Engineer;" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <a href="https://www.google.com.eg/search?q=YoussefAIDev">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000">
-  </a>
-</p>
-
 ---
 
 <h2 align="center">About Me</h2>
