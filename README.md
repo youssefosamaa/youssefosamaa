@@ -81,16 +81,21 @@
 
 </div>
 
-#### 🏆 GitHub Trophies
-<div align="center">
 
-  <!-- Trophies -->
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
   <a href="https://github.com/YoussefAIDev">
-    <img src="https://github-profile-trophy.vercel.app/?username=YoussefAIDev&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=YoussefAIDev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=YoussefAIDev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=YoussefAIDev&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
   </a>
+</p>
+<br />
 
-</div>
 
+#### 📊 Stats
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed20384&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp;
   <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125" />
 
