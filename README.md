@@ -25,16 +25,16 @@
     I actively contribute to open-source AI projects to collaborate with other developers and share knowledge.<br>
     My approach combines continuous learning, experimentation, and hands-on implementation to deliver impactful results.<br><br>
     <ul>
-      <li>🌱 Continuously exploring new AI methods, tools, and emerging technologies.</li>
-      <li>✨ Committed to independent learning and practical application of AI.</li>
-      <li>💻 Delivering reliable, efficient, and high-quality AI projects.</li>
-      <li>🤝 Engaged in open-source collaboration and knowledge sharing with the AI community.</li>
+      <li>Continuously exploring new AI methods, tools, and emerging technologies.</li>
+      <li>Committed to independent learning and practical application of AI.</li>
+      <li>Delivering reliable, efficient, and high-quality AI projects.</li>
+      <li>Engaged in open-source collaboration and knowledge sharing with the AI community.</li>
     </ul>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=YoussefAIDev&label=Profile%20views&color=0,000000,441350&style=for-the-badge" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=YoussefAIDev&label=Profile%20views&color=441350&style=for-the-badge&logo=star" alt="Profile Views"/>
   </td>
 
-  <td width="40%" valign="top" align="right">
+  <td width="40%" valign="middle" align="right">
     <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="320" height="320" alt="AI Developer GIF"/>
   </td>
 </tr>
