@@ -17,12 +17,12 @@
 <table width="100%" cellspacing="0" cellpadding="0">
 <tr>
   <td width="60%" valign="top" style="font-size:16px; line-height:1.9;">
-    I am Youssef Osama, an AI developer specializing in Machine Learning and Deep Learning.<br>
-    I am currently deepening my expertise in Generative AI and cloud computing with AWS and Azure, while keeping up with the latest AI research.<br>
-    I enjoy independent learning through reading research papers, taking accredited courses, participating in AI communities, and building practical projects.<br>
-    I focus on applying AI to solve real-world problems using analytical and critical thinking.<br>
-    I design AI models that are robust, efficient, scalable, and precise for practical applications.<br>
-    I actively contribute to open-source AI projects to collaborate with other developers and share knowledge.<br>
+    I am Youssef Osama, an AI developer specializing in Machine Learning and Deep Learning.
+    I am currently deepening my expertise in Generative AI and cloud computing with AWS and Azure, while keeping up with the latest AI research.
+    I enjoy independent learning through reading research papers, taking accredited courses, participating in AI communities, and building practical projects.
+    I focus on applying AI to solve real-world problems using analytical and critical thinking.
+    I design AI models that are robust, efficient, scalable, and precise for practical applications.
+    I actively contribute to open-source AI projects to collaborate with other developers and share knowledge.
     My approach combines continuous learning, experimentation, and hands-on implementation to deliver impactful results.<br><br>
     <ul>
       <li>Continuously exploring new AI methods, tools, and emerging technologies.</li>
