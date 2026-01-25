@@ -14,17 +14,28 @@
 
 ---
 
-### 👨‍💻 About Me
-<p align="center">
+### 👨‍💻 About Me 
+<table width="100%">
+<tr>
+<td width="65%" align="left">
+
 I am Youssef Osama, an AI developer passionate about Machine Learning and Deep Learning.<br>
 I build AI models and solutions that are practical and efficient.<br>
 I constantly learn and experiment with new AI technologies.<br>
 My goal is to deliver impactful projects and contribute to the AI community.
-</p>
+
+</td>
+<td width="35%" align="center">
+  <img src="https://media.giphy.com/media/26xBMu6k2U55fFGfK/giphy.gif" width="150" alt="AI Developer GIF"/>
+</td>
+</tr>
+</table>
 
 ---
 
-#### 🛠️ Top Technical Skills
+---
+
+### 🛠️ Top Technical Skills
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python"/>
   <img width="12"/>
@@ -70,7 +81,7 @@ My goal is to deliver impactful projects and contribute to the AI community.
 
 ---
 
-<h2 align="center">📊 Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
+<h2 align="center"> Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊</h2>
 <table width="100%">
   <tr>
     <td width="50%">
@@ -94,11 +105,44 @@ My goal is to deliver impactful projects and contribute to the AI community.
 
 ---
 
-<h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
+<h2 align="center"> Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefAIDev&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" style="border-radius:15px;">
 </div>
 
 ---
 
+<!--Dynamic Quote card updates everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
+<!--STARTS_HERE_QUOTE_CARD-->
+<p align="center">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=What%20would%20life%20be%20if%20we%20had%20no%20courage%20to%20attempt%20anything%3F%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+</p>
+<!--ENDS_HERE_QUOTE_CARD-->
+
+---
+
+<h2 align="center"> Connect with Me 📤</h2>
+<div align="center">
+
+  <a href="https://www.linkedin.com/in/youssef-osama-a678a6388" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+  <a href="mailto:youssef.cont.ai@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
+  </a>
+  <a href="https://leetcode.com/u/YoussefAIDev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="25"/>
+  </a>
+  <a href="https://www.datacamp.com/portfolio/YoussefDevAI" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=DataCamp&logo=datacamp&color=03EF62&logoColor=black&style=for-the-badge" height="25"/>
+  </a>
+
+</div>
+
+<br>
+
+<!--Footer--> 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=70&section=footer"/>
+</p>
