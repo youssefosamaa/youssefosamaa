@@ -16,22 +16,23 @@
 <div align="center">
 
   <a href="https://www.linkedin.com/in/youssef-osama-a678a6388" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"/>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 
-  <a href="mailto:youssefwwt4@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" alt="gmail logo"/>
+  <a href="https://mail.google.com/mail/?view=cm&to=youssef.cont.ai@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
   </a>
 
   <a href="https://leetcode.com/u/YoussefAIDev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=black&style=for-the-badge" height="25" alt="leetcode logo"/>
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="25"/>
   </a>
 
   <a href="https://www.datacamp.com/portfolio/YoussefDevAI" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=DataCamp&logo=datacamp&label=&color=03EF62&logoColor=black&style=for-the-badge" height="25" alt="datacamp logo"/>
+    <img src="https://img.shields.io/static/v1?message=DataCamp&logo=datacamp&color=03EF62&logoColor=black&style=for-the-badge" height="25"/>
   </a>
 
 </div>
+
 
 
 #### `🛠️ Top Technical Skills`
