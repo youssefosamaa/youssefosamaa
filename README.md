@@ -1,93 +1,131 @@
-<!--Banner-->
-![Profile Banner](./banner.png)
+<h1 align="center">Hi, I'm  Mobamed Whdan</h1>
 
-<!--AI Owl Image-->
-<div>
-  <img align="right" width="40%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+.NET+@+ITI" alt="Typing SVG" />
+</p>
+
+<br>
+
+  <p align="center">
+    <a href="https://www.google.com.eg/search?q=mohamed20384"> <!-- Google Me -->
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Follow%20to%20get%20New%20Updates;Check%20my%20Popular%20Repositories&font=Bold%20Code&center=true&color=30F050&pause=2000"></a>
+  </p>
+
+  <p align="center">
+    <a href="https://www.google.com.eg/search?q=mohamed20384"> <!-- Google Me -->
+      <img src="https://komarev.com/ghpvc/?username=mohamed20384&style=flat&color=3010A0" style="height:26px; object-fit:contain;"/></a>
+  </p>
+
+  <p align = "center">
+    <a href="https://drive.google.com/drive/folders/1cMFhLCLeu1WX0o57vI_0qSetC0188pj1?usp=sharing">
+      <img src="https://img.shields.io/badge/My CV-004520?style=flat-square&logo=googledrive&logoColor=white" style="height:32px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://flowcv.com/resume/at8tsgkor6n5">
+      <img src="https://img.shields.io/badge/My Portfolio-00307A?style=flat-square&logo=linkfire&logoColor=white" style="height:32px; object-fit:contain;"/></a>
+  </p>
+
+  #### `📤 Connect & Competitive Programming`
+  <div align="center">
+  <a href="https://www.linkedin.com/in/mohamed-whdan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://x.com/whdan_ai" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+  <a href="whdan236@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
+  <a href="https://www.instagram.com/whdan48" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://www.youtube.com/@Mohamed_Whdan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="@Whdan48" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
+  </a>
 </div>
 
-<!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello There, I'ᴍ Youssef!
-*AI / ML Engineer*  
-<br /> 
 
-<!--Start Intro-->               
-<p align="left">
-I am an AI programmer passionate about Machine Learning, Deep Learning, and Data Science. I enjoy building intelligent systems, and constantly pushing my skills further in AI technologies.
-</p>
+#### `🛠️ Top Technical Skills`
 
-- 🌱 Deepening my expertise in Deep Learning and Neural Network applications.  
-- 💻 Developing projects that tackle real-world problems using authentic datasets and AI technologies.  
-- 🔗 Explore my progress below.  
-- 🎯 Passionate lifelong learner, constantly exploring new ideas in AI and programming.
+  <div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="60" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="60" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="60" alt="azure logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="60" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="60" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="kaggle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="60" alt="notion logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="opencv logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="60" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="60" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" height="60" alt="opengl logo"  />
+</div>
 
-<!--Profile Count Badge-->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YoussefAIDev&label=Profile%20views&color=770677&style=for-the-badge&logo=star" alt="Profile views" style="padding-right:20px;" />
-</p>
-
----
-
-<!--Technologies & Tools Badges-->       
-<h2 align="center">💻 Tᴇᴄʜ Sᴛᴀᴄᴋ & Sᴋɪʟʟs</h2> 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
----
-
-<!--GitHub Stats & Trophies--> 
-<h2 align="center">📊 GitHub Stats & Trophies 📊</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy-ruddy.vercel.app/?username=YoussefAIDev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=YoussefAIDev&count_private=true&show_icons=true&theme=dark&hide=prs,issues" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YoussefAIDev&theme=dark" alt="GitHub Streak Stats" />
-</p>
-
----
-
-<!--Contribution Graph-->
-<h2 align="center">📈 Contribution Graph 📈</h2>
+#### 🏆 GitHub Trophies
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefAIDev&bg_color=0d1117&color=ffffff&line=c56a90&point=ffeb95&area=false" border-radius="15">
+
+  <img src="https://github-profile-trophy-ahmed.vercel.app/?username=mohamed20384&theme=onestar&no-bg=true&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+
+  <br><br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamed20384&layout=compact&langs_count=6&theme=highcontrast" height="125" /> &nbsp;
+  <img src="https://streak-stats.demolab.com/?user=a-hemeda&theme=highcontrast" height="125" />
+
+  <br><br>
+  
+  <!-- <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" /> -->
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamed20384/mohamed20384/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamed20384/mohamed20384/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/mohamed20384/mohamed20384/output/pacman-contribution-graph.svg">
+  </picture>
+
+
 </div>
-
----
-
-<!--Dynamic Quote card--> 
-<h2 align="center">🌟 Thought of the Day 🌟</h2>
-<p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Albert%20Einstein&quote=The%20important%20thing%20is%20not%20to%20stop%20questioning.%20Curiosity%20has%20its%20own%20reason%20for%20existing.&theme=dark&bg_color=0d1117&author_color=ffeb95&accent_color=c56a90">
-</p>
-
----
-
-<!--Contact Section--> 
-<h2 align="center">🤝 Connect With Me 🤝 </h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/Email-youssef.cont.ai@gamil.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
-  <img src="https://img.shields.io/badge/LinkedIn-YoussefOsama-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-YoussefAIDev-black?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<!--Footer--> 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
