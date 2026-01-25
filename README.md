@@ -74,16 +74,16 @@
 <p align="center">
   <a href="https://github.com/YoussefAIDev">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=YoussefAIDev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=YoussefAIDev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=YoussefAIDev&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=YoussefAIDev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=YoussefAIDev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=YoussefAIDev&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia">
     </picture>
   </a>
 </p>
 
 ---
 
-<h2 align="center">GitHub Stats </h2>
+<h2 align="center">GitHub Stats</h2>
 <table width="100%">
   <tr>
     <td width="50%">
@@ -107,14 +107,14 @@
 
 ---
 
-<h2 align="center">Contribution Graph </h2>
+<h2 align="center">Contribution Graph</h2>
 <div align="center">
   <img src="https://readme-activity-graph.vercel.app/graph?username=YoussefAIDev&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" style="border-radius:15px;">
 </div>
 
 ---
 
-<h2 align="center"> Thought of the Day </h2>
+<h2 align="center">Thought of the Day 💫</h2>
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=What%20would%20life%20be%20if%20we%20had%20no%20courage%20to%20attempt%20anything%3F%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
 </p>
