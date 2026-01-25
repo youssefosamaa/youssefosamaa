@@ -90,7 +90,7 @@
       <h3 align="center"><strong>GitHub Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/YoussefAIDev">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=YoussefAIDev&count_private=true&show_icons=true&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=YoussefAIDev&count_private=true&show_icons=true&theme=nightowl&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -98,7 +98,7 @@
       <h3 align="center"><strong>Streak Stats</strong></h3>
       <p align="center">
         <a href="https://github.com/YoussefAIDev">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=YoussefAIDev&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
+          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=YoussefAIDev&theme=nightowl&background=0d1117&fire=58a6ff&ring=1f6feb&sideNums=c9d1d9&sideLabels=c9d1d9&dates=58a6ff&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -109,15 +109,17 @@
 
 <h2 align="center">Contribution Graph</h2>
 <div align="center">
-  <img src="https://readme-activity-graph.vercel.app/graph?username=YoussefAIDev&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" style="border-radius:15px;">
+  <img src="https://readme-activity-graph.vercel.app/graph?username=YoussefAIDev&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=false&hide_border=false" style="border-radius:15px;">
 </div>
+
 
 ---
 
 <h2 align="center">Thought of the Day 💫</h2>
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=What%20would%20life%20be%20if%20we%20had%20no%20courage%20to%20attempt%20anything%3F%20&theme=dark&bg_color=220a28&author_color=ffeb95&accent_color=c56a90">
+    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=What%20would%20life%20be%20if%20we%20had%20no%20courage%20to%20attempt%20anything%3F%20&theme=dark&bg_color=0d1117&author_color=58a6ff&accent_color=1f6feb">
 </p>
+
 
 ---
 
