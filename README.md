@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Youssef Osama</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Engineer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=87CEFB&center=true&vCenter=true&width=600&lines=AI+Engineer;" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
       <li>Engaged in open-source collaboration and knowledge sharing with the AI community.</li>
     </ul>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=YoussefAIDev&label=Profile%20views&color=87CEFB&style=for-the-badge&logo=star" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=YoussefAIDev&label=Profile%20views&color=448EE4&style=for-the-badge&logo=star" alt="Profile Views"/>
   </td>
 
   <td width="40%" valign="middle" align="right">
