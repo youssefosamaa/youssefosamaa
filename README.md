@@ -131,9 +131,9 @@
   <a href="mailto:youssef.cont.ai@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
   </a>
-  <a href="https://leetcode.com/u/YoussefAIDev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&color=FFA116&logoColor=black&style=for-the-badge" height="25"/>
-  </a>
+ <a href="https://www.hackerrank.com/profile/YoussefAIDev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="25"/>
+</a>
   <a href="https://www.datacamp.com/portfolio/YoussefDevAI" target="_blank">
     <img src="https://img.shields.io/static/v1?message=DataCamp&logo=datacamp&color=03EF62&logoColor=black&style=for-the-badge" height="25"/>
   </a>
