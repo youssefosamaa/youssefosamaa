@@ -8,26 +8,20 @@
 
 ## About Me
 
-I am an AI and Machine Learning enthusiast focused on building practical, end-to-end projects in data science and deep learning.
+I am a Computer Science student passionate about Machine Learning and AI, with a solid understanding of core ML concepts and hands-on project experience.
 
-My experience comes mainly from hands-on implementation, where I work with real datasets, build predictive models, and explore computer vision and machine learning workflows using Python and its ecosystem.
+I am currently focusing on improving my skills in Deep Learning, with an active goal of moving toward modern AI systems, model deployment, and end-to-end production-grade projects.
 
-I am currently strengthening my skills in Deep Learning, Generative AI, and Machine Learning Engineering, while also learning how to deploy and scale models using cloud platforms.
-
-I prefer working through the full ML pipeline—from data cleaning and EDA to feature engineering, model training, and evaluation—rather than focusing only on theory.
-
-Outside of projects, I continuously learn through experimentation, implementation, and applied machine learning resources.
+My long-term objective is to grow into a Senior AI Engineer role, working on scalable,  production-ready AI systems.
 
 ---
 
-## 🧠 Key Skills
+## Key Skills
 
 - Machine Learning (Regression, Classification, Clustering)
-- Deep Learning (CNNs, Neural Networks)
-- Computer Vision basics
-- Data Preprocessing & Feature Engineering
-- Model Evaluation & Optimization
+- Deep Learning (Pytorch, TensorFlow, NLP, CNNs, Neural Networks)
 - Python ecosystem (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
+- Problem Solving
 
 ---
 
@@ -41,8 +35,11 @@ Outside of projects, I continuously learn through experimentation, implementatio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50"/>
 </p>
 
 ---
@@ -67,7 +64,7 @@ Outside of projects, I continuously learn through experimentation, implementatio
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/youssef-osama-a678a6388">
+  <a href="https://www.linkedin.com/in/youssefosamaa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
