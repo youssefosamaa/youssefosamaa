@@ -25,7 +25,7 @@
       <li>Engaged in open-source collaboration and knowledge sharing with the AI community.</li>
     </ul>
     <br/>
-    <img src="https://komarev.com/ghpvc/?username=YoussefAIDev&label=Profile%20views&color=448EE4&style=for-the-badge&logo=star" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=youssefosamaa&label=Profile%20views&color=448EE4&style=for-the-badge&logo=star" alt="Profile Views"/>
   </td>
 
   <td width="40%" valign="middle" align="right">
@@ -39,107 +39,71 @@
 <h2 align="left">Top Technical Skills</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="Python"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="NumPy"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60" alt="Pandas"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="Jupyter"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="60" alt="Scikit-Learn"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="PyTorch"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="TensorFlow"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="OpenCV"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60" alt="Anaconda"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60" alt="Kaggle"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60" alt="GitHub"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="60" alt="Matplotlib"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60" alt="FastAPI"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="60"/>
 </div>
 
 ---
 
 <h2 align="center">GitHub Trophies</h2>
+
 <p align="center">
-  <a href="https://github.com/YoussefAIDev">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=YoussefAIDev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=YoussefAIDev&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=YoussefAIDev&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia">
-    </picture>
+  <a href="https://github.com/youssefosamaa">
+    <img src="https://github-profile-trophy-ruddy.vercel.app/?username=youssefosamaa&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=algolia">
   </a>
 </p>
 
 ---
 
 <h2 align="center">GitHub Stats</h2>
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center"><strong>GitHub Stats</strong></h3>
-      <p align="center">
-        <a href="https://github.com/YoussefAIDev">
-          <img align="center" src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=YoussefAIDev&count_private=true&show_icons=true&theme=nightowl&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center"><strong>Streak Stats</strong></h3>
-      <p align="center">
-        <a href="https://github.com/YoussefAIDev">
-          <img align="center" src="https://github-readme-streak-stats-mu-flame.vercel.app/?user=YoussefAIDev&theme=nightowl&background=0d1117&fire=58a6ff&ring=1f6feb&sideNums=c9d1d9&sideLabels=c9d1d9&dates=58a6ff&currStreakNum=ffffff" alt="Streak Stats" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=youssefosamaa&count_private=true&show_icons=true&theme=nightowl&bg_color=0d1117"/>
+</p>
+
+---
+
+<h2 align="center">Streak Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefosamaa&theme=nightowl&background=0d1117"/>
+</p>
 
 ---
 
 <h2 align="center">Contribution Graph</h2>
-<div align="center">
-  <img src="https://readme-activity-graph.vercel.app/graph?username=YoussefAIDev&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=false&hide_border=false" style="border-radius:15px;">
-</div>
 
-
----
-
-<h2 align="center">Thought of the Day 💫</h2>
 <p align="center">
-    <img src="https://readme-daily-quotes.vercel.app/api?author=Vincent%20van%20Gogh&quote=What%20would%20life%20be%20if%20we%20had%20no%20courage%20to%20attempt%20anything%3F%20&theme=dark&bg_color=0d1117&author_color=58a6ff&accent_color=1f6feb">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefosamaa"/>
 </p>
-
 
 ---
 
 <h2 align="center">Connect with Me</h2>
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/youssef-osama-a678a6388" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25"/>
+  <a href="https://www.linkedin.com/in/youssef-osama-a678a6388">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="mailto:youssef.cont.ai@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25"/>
-  </a>
- <a href="https://www.hackerrank.com/profile/YoussefAIDev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&color=2EC866&logoColor=white&style=for-the-badge" height="25"/>
-</a>
-  <a href="https://www.datacamp.com/portfolio/YoussefDevAI" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=DataCamp&logo=datacamp&color=03EF62&logoColor=black&style=for-the-badge" height="25"/>
+
+  <a href="mailto:youssef.cont.ai@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
 
-<br>
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
