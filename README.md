@@ -47,8 +47,8 @@ My long-term objective is to grow into a Senior AI Engineer role, working on sca
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=youssefosamaa&show_icons=true&theme=nightowl&bg_color=0d1117" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=youssefosamaa&theme=nightowl&background=0d1117" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YousefXEisa&show_icons=true&theme=nightowl&bg_color=0d1117" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YousefXEisa&theme=nightowl&background=0d1117" height="170"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@ My long-term objective is to grow into a Senior AI Engineer role, working on sca
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=youssefosamaa&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YousefXEisa&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=1f6feb&area=true"/>
 </p>
 
 ---
@@ -64,7 +64,7 @@ My long-term objective is to grow into a Senior AI Engineer role, working on sca
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/youssefosamaa">
+  <a href="https://www.linkedin.com/in/yousefxeisa">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
