@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Youssef Osama</h1>
+<h1 align="center">Hi, I'm Yousef</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=87CEEB&center=true&vCenter=true&width=600&lines=AI+Engineer;" />
