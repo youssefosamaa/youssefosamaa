@@ -17,11 +17,15 @@ My long-term objective is to grow into a Senior AI Engineer role, working on sca
 ---
 
 ## Key Skills
-
-- Machine Learning (Regression, Classification, Clustering)
-- Deep Learning (Pytorch, TensorFlow, NLP, CNNs, Neural Networks)
-- Python ecosystem (NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn)
-- Problem Solving, Analytical Thinking, Critical Thinking
+- Machine Learning
+- Deep Learning
+- Natural Language Processing (NLP)
+- Transformers & LLMs
+- Generative AI
+- Model Deployment
+- PyTorch
+- Software Egineering
+- Python
 
 ---
 
